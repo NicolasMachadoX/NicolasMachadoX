@@ -1,25 +1,24 @@
-## Nicolás Machado ( ‘• ω • `)
-
-💻 Fullstack Developer | Backend Specialist
+## Nicolás Machado 
+💻 Backend-focused Fullstack Developer
 🌎 Remote | Colombia
 
-I build scalable backend systems, automation tools, and cloud-based solutions for real-world applications.
+I design and build scalable backend systems, automation pipelines, and cloud-native applications focused on reliability and real-world performance.
 
-With +3 years of experience, I’ve worked with international clients delivering production-ready systems, integrating external APIs, and handling everything from backend architecture to deployment. I specialize in solving problems fast, learning on the go, and shipping reliable solutions.
+With +3 years of experience working with international clients, I’ve delivered production-ready systems end-to-end — from API design and data modeling to deployment, process automation, and infrastructure setup. Strong focus on system efficiency, maintainability, and fast iteration in real environments.
 
 ⚙️ Core Stack
-Node.js, Python, React / React Native
+Node.js (Express), Python
+React / React Native
 MySQL, Firebase, MongoDB
-AWS, DigitalOcean, Docker, Nginx
+AWS (EC2), DigitalOcean, Docker, Nginx, PM2
 
 🔧 What I do
+API architecture & backend systems design
+Automation pipelines & web scraping at scale
+Cloud deployment, server management & DevOps
+Third-party integrations (communications, AI, data services)
 
-Backend development & API design
-Automation & web scraping
-Cloud deployments & DevOps
-Third-party integrations (Twilio, OpenAI, etc.)
-
-🚀 I’m focused on building efficient, scalable, and maintainable systems, especially in fast-paced environments.
+🚀 Focused on building robust, scalable systems that ship fast and hold under load.
 
 📫 nicolasmachadolaboral@gmail.com
 
